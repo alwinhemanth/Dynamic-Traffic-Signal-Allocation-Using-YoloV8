@@ -39,3 +39,9 @@ This project controls traffic signals dynamically using **image processing** ins
 
 ## 🏗️ System Architecture
 
+This project uses an offline video file (`.mp4`) as the input source for simulating smart traffic signal control. The video is processed frame by frame to detect vehicle density per lane using YOLOv8. Based on the density, the system dynamically assigns green signal times and visualizes changes in a GUI using PyQt5.
+
+### 🔄 Architecture Flow:
+
+
+
