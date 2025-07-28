@@ -4,10 +4,11 @@ A real-time system that dynamically controls traffic signals using vehicle detec
 
 ---
 
-## 📽️ Demo
+### 📽️ Demo
 
-> 🎥 _Add your demo video link here_  
-> Example: ![Demo Video](https://github.com/your-username/your-repo/assets/demo.mp4)
+🚦 Watch the full demo on LinkedIn:  
+[🔗 Smart Traffic Control System Demo – LinkedIn Video](https://www.linkedin.com/posts/alwin-hemanth-ks_smarttraffic-admindashboard-djangoproject-activity-7317804517218017281-t0oA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2FL74BK3Uq2EF9GMHcO-Y5ABw5jjmFuqY)
+
 
 ---
 
